@@ -1,0 +1,15 @@
+conditional statement 
+
+voting  system 
+
+case 1 : 18 / 18+ vote 
+
+case 2 : 18- don't vote 
+
+CGPA 
+
+80-80+ A+
+75-79  A
+70-74  A-
+65-69  B+
+
